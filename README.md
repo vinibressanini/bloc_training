@@ -1,16 +1,6 @@
-# bloc_training_app
+# Bloc Training App
 
-A new Flutter project.
+Recreted Flutter demo application (counter) using bloc, I used the same example in the flutter_bloc documentation, just trying to understand how it works. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- flutter_bloc documentation: https://pub.dev/packages/flutter_bloc
